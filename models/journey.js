@@ -7,3 +7,5 @@ const Journey = function(startLocation, endLocation, transport, distance) {
 };
 
 module.exports = Journey;
+
+
