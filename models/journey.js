@@ -1,3 +1,4 @@
+
 const Journey = function(startLocation, endLocation, transport, distance) {
   this.startLocation = startLocation;
   this.endLocation = endLocation;
